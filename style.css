@@ -9,3 +9,15 @@
     box-sizing: inherit;
     scroll-behavior: inherit;
 }
+
+/* https: //developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Images_media_forms#normalizing_form_behavior */
+/* button,
+input,
+select,
+textarea {
+    font-family: unset;
+    font-size: unset;
+    padding: unset;
+    margin: unset;
+} */
+
